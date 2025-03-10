@@ -12,6 +12,7 @@ A free online version is available here:
 
 ## Day 1
 * [Slides](https://github.com/PGM-Lab/2025-PhD-Course-PML/raw/main/Day1/Main_Day1.pdf)
+* Notebook: [Bayesian_Network_Example](https://colab.research.google.com/github/PGM-Lab/2025-PhD-Course-PML/blob/main/Day1/notebooks/bn_example.ipynb)
 * Notebook: [students_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2025-PhD-Course-PML/blob/main/Day1/notebooks/students_PPLs_Intro.ipynb)
 * Notebook: [solutions_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2025-PhD-Course-PML/blob/main/Day1/notebooks/solutions_PPLs_Intro.ipynb)
 
